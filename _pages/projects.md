@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: My projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Random showcasing examples. 🕮
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Data Science, Data Visualization]
 horizontal: false
 ---
 

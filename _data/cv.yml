@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tomas Eduardo Hansen Ibáñez
     - name: Date of Birth
-      value: 14th March 1879
+      value: 19 de Agosto de 1996
     - name: Languages
-      value: English, German
+      value: Spanish, English
 
 - title: Education
   type: time_table
